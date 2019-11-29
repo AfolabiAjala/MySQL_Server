@@ -14,7 +14,7 @@ Create an IAM user : Aws don't recommend accessing the EC2 instance with an aws 
 
 Step 3
 
-Create an administrator user and added the user to an administrator group, then  create a user password.
+Create an administrator user and add the user to an administrator group, then  create a user password.
 
 Step 4
 
